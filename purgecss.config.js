@@ -1,4 +1,5 @@
 module.exports = {
   content: ['index.html'],
-  css: ['css/styles.css', 'css/custom.css']
+  css: ['source/styles.css', 'source/custom.css'],
+  output: 'css'
 }
