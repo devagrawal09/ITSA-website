@@ -54,3 +54,41 @@
   font-size: 26px;
   margin: auto;
 }
+
+img.logo {
+  height: 60px;
+}
+
+@media (min-width: 576px) { 
+  img.logo {
+    height: 75px;
+  }
+}
+
+@media (min-width: 748px) { 
+  #features {
+    margin-top: 3rem;
+  }
+}
+
+@media (min-width: 768px) { 
+  img.logo {
+    height: 100px;
+  }
+}
+
+@media (min-width: 854px) { 
+  img.logo {
+    height: 100px;
+  }
+
+  #features {
+    margin-top: inherit;
+  }
+}
+
+@media (min-width: 992px) { 
+  img.logo {
+    height: 150px;
+  }
+}

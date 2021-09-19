@@ -7606,7 +7606,7 @@ body {
     top: 0;
     content: "";
     background-color: rgba(0, 0, 0, 0.7); }
-  .bg-hero .container {
+  .bg-hero .container-fluid {
     z-index: 2;
     position: relative; }
 
