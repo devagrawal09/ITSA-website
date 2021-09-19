@@ -1,0 +1,56 @@
+.text-red {
+  color: #fff;
+  text-shadow:
+  0 0 3px #ff1616,
+  0 0 6px #ff1616,
+  0 0 12px #ff1616;
+}
+
+.text-white {
+  color: #fff;
+  text-shadow: 0 0 6px #ff4040;
+}
+
+.text-large {
+  font-size: 1.5rem;
+}
+
+.btn-teams {
+  color: #000;
+  background-color: #fff;
+  border-color: #fff;
+  font-size: 30px;
+}
+.btn-teams:hover {
+  color: #ffffff;
+  background-color: #7b83eb;
+  border-color: #7b83eb;
+}
+.btn-teams:focus, .btn-teams.focus {
+  box-shadow: 0 0 0 0.2rem #7b83eb;
+}
+
+.btn-campuslink {
+  color: #000;
+  background-color: #fff;
+  border-color: #fff;
+  font-size: 30px;
+}
+.btn-campuslink:hover {
+  color: #ffffff;
+  background-color: #37af48;
+  border-color: #37af48;
+}
+.btn-campuslink:focus, .btn-campuslink.focus {
+  box-shadow: 0 0 0 0.2rem #7b83eb;
+}
+
+.feature-boxes .icon-box, .feature-boxes .icon-box-inner {
+  width: 80px;
+  height: 80px;
+}
+
+.feature-boxes .icon-box-inner span {
+  font-size: 26px;
+  margin: auto;
+}
