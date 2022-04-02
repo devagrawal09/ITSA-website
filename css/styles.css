@@ -45,6 +45,7 @@
   url('../fonts/Lovelo/Lovelo-Black.woff2') format('woff2'),
   url('../fonts/Lovelo/Lovelo-Black.woff') format('woff'),
   url('../fonts/Lovelo/Lovelo-Black.ttf') format('truetype');
+  font-display: swap;
 }
 
 @font-face {
@@ -54,6 +55,7 @@
   url('../fonts/Lovelo/Lovelo-LineBold.woff2') format('woff2'),
   url('../fonts/Lovelo/Lovelo-LineBold.woff') format('woff'),
   url('../fonts/Lovelo/Lovelo-LineBold.ttf') format('truetype');
+  font-display: swap;
 }
 
 *,
