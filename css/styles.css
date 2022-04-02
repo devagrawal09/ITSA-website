@@ -87,7 +87,7 @@ body {
   text-align: left;
   background-color: #000000; }
 
-h1, h2, h5 {
+h1, h2, h3 {
   margin-top: 0;
   margin-bottom: 1rem; }
 
@@ -155,8 +155,8 @@ button::-moz-focus-inner,
   padding: 0;
   border-style: none; }
 
-h1, h2, h5,
-.h1, .h2, .h5 {
+h1, h2, h3,
+.h1, .h2, .h3 {
   font-family: "Lovelo-Line";
   margin-bottom: 1rem;
   font-weight: 700;
@@ -169,7 +169,7 @@ h1, .h1 {
 h2, .h2 {
   font-size: 2.5rem; }
 
-h5, .h5 {
+h3, .h3 {
   font-size: 1.25rem; }
 
 code {
@@ -281,8 +281,8 @@ code {
 
 .btn-primary {
   color: #ffffff;
-  background-color: #ff1616;
-  border-color: #ff1616; }
+  background-color: #ea1010;
+  border-color: #ea1010; }
   .btn-primary:hover {
     color: #ffffff;
     background-color: #f0002f;
@@ -668,7 +668,7 @@ footer a {
     color: rgba(255, 255, 255, 0.9);
     text-decoration: underline; }
 
-footer h5 {
+footer h3 {
   font-size: 1rem;
   text-transform: uppercase; }
 
